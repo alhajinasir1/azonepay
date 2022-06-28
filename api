@@ -12,7 +12,7 @@ $parameters = [
     'checkout_theme' => 'dark',
     'customer_name' => 'John Doe',
     'customer_email' => 'john@mail.com',
-
+    
 ];
 
 //live end point
